@@ -4,6 +4,7 @@ import About from "./About"
 import './App.css'
 
 function Home() {
+  const a = 1
   return <div>
     <h1>Home page</h1>
     <div>with workflow</div>
